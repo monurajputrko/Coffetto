@@ -1,8 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { Navbar } from './components/Navbar';
 import { Home } from './components/Home';
 import { Products } from './components/Products';
+import { About } from './components/About';
+import { Steps } from './components/Steps';
+import { Testimonial } from './components/Testimonial';
+import { Footer } from './components/Footer';
 
 function App() {
   return (
@@ -10,6 +14,10 @@ function App() {
       <Navbar />
       <Home />
       <Products />
+      <About />
+      <Steps />
+      <Testimonial />
+      <Footer />
     </div>
   );
 }
