@@ -1,3 +1,5 @@
+import {Link} from "react-router-dom"
+
 export const Navbar = () => {
   return (
     <header class="header" id="header">
@@ -5,13 +7,15 @@ export const Navbar = () => {
 
       <nav class="nav container">
         <a href="#" class="nav--logo">
+        {/* <Link></Link> */}
+        {/* <Link to="#"> */}
           <img
             src="https://gilded-froyo-cad2e5.netlify.app//assets/img/logo.png"
             alt="logo"
           />
           Coffetto
+        {/* </Link> */}
         </a>
-
         <div class="nav--menu">
           <ul class="nav--list">
             <li class="nav--item">
