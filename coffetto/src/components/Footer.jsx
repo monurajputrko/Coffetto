@@ -25,8 +25,13 @@ export const Footer = () => {
                   <h3 class="footer--title">Sign up for our newsletter</h3>
                 </div>
 
-                <form action="#" class="footer--form grid">
+                <form
+                  action="https://formspree.io/f/xvojqbkb"
+                  method="POST"
+                  class="footer--form grid"
+                >
                   <input
+                    name="email"
                     type="email"
                     placeholder="Enter email address"
                     class="footer--input"
@@ -73,10 +78,7 @@ export const Footer = () => {
 
                 <span class="footer--copy">
                   {" "}
-                  © Copyright Monu Singh. All right{" "}
-                  <a href="https://www.instagram.com/monurajputrko/" color="yellow" >
-                     Instagram
-                  </a>
+                  © Copyright Monu Singh & Premjeet Yadav
                 </span>
               </div>
             </div>
