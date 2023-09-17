@@ -73,7 +73,10 @@ export const Footer = () => {
 
                 <span class="footer--copy">
                   {" "}
-                  © Copyright Bedimcode. All right{" "}
+                  © Copyright Monu Singh. All right{" "}
+                  <a href="https://www.instagram.com/monurajputrko/" color="yellow" >
+                    Instagram
+                  </a>
                 </span>
               </div>
             </div>
