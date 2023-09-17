@@ -75,7 +75,7 @@ export const Footer = () => {
                   {" "}
                   © Copyright Monu Singh. All right{" "}
                   <a href="https://www.instagram.com/monurajputrko/" color="yellow" >
-                    Instagram
+                     Instagram
                   </a>
                 </span>
               </div>
