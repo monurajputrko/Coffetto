@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coffetto/static/css/main.7b113894.css",
+    "main.js": "/Coffetto/static/js/main.10d44e8e.js",
+    "static/js/787.fbc6f5b5.chunk.js": "/Coffetto/static/js/787.fbc6f5b5.chunk.js",
+    "index.html": "/Coffetto/index.html",
+    "main.7b113894.css.map": "/Coffetto/static/css/main.7b113894.css.map",
+    "main.10d44e8e.js.map": "/Coffetto/static/js/main.10d44e8e.js.map",
+    "787.fbc6f5b5.chunk.js.map": "/Coffetto/static/js/787.fbc6f5b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b113894.css",
+    "static/js/main.10d44e8e.js"
+  ]
+}
