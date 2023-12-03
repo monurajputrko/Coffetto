@@ -25,10 +25,17 @@ export const Navbar = () => {
               </a>
             </li>
 
-            <li class="nav--item">
+            {/* <li class="nav--item">
               <a href="#about" class="nav--link">
                 <i class="ri-award-fill"></i>
                 <span>About</span>
+              </a>
+            </li> */}
+
+            <li class="nav--item">
+              <a href="#about" class="nav--link">
+                <i class="ri-award-fill"></i>
+                <span>Products</span>
               </a>
             </li>
 
