@@ -23,30 +23,6 @@ export const Products = () => {
             <article
               class="products--card"
               data-sr-id="7"
-            //   style="
-            //       visibility: visible;
-            //       opacity: 1;
-            //       transform: matrix3d(
-            //         1,
-            //         0,
-            //         0,
-            //         0,
-            //         0,
-            //         1,
-            //         0,
-            //         0,
-            //         0,
-            //         0,
-            //         1,
-            //         0,
-            //         0,
-            //         0,
-            //         0,
-            //         1
-            //       );
-            //       transition: opacity 2.5s cubic-bezier(0.5, 0, 0, 1) 0.4s,
-            //         transform 2.5s cubic-bezier(0.5, 0, 0, 1) 0.4s;
-            //     "
             >
               <img
                 src="https://gilded-froyo-cad2e5.netlify.app/assets/img/product-coffee-1.png"
@@ -60,30 +36,6 @@ export const Products = () => {
             <article
               class="products--card"
               data-sr-id="8"
-            //   style="
-            //       visibility: visible;
-            //       opacity: 1;
-            //       transform: matrix3d(
-            //         1,
-            //         0,
-            //         0,
-            //         0,
-            //         0,
-            //         1,
-            //         0,
-            //         0,
-            //         0,
-            //         0,
-            //         1,
-            //         0,
-            //         0,
-            //         0,
-            //         0,
-            //         1
-            //       );
-            //       transition: opacity 2.5s cubic-bezier(0.5, 0, 0, 1) 0.4s,
-            //         transform 2.5s cubic-bezier(0.5, 0, 0, 1) 0.4s;
-            //     "
             >
               <img
                 src="https://gilded-froyo-cad2e5.netlify.app/assets/img/product-coffee-2.png"

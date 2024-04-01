@@ -78,7 +78,7 @@ export const Footer = () => {
 
                 <span class="footer--copy">
                   {" "}
-                  © Copyright Monu Singh & Premjeet Yadav
+                  © Copyright Coffetto. All rights reserved
                 </span>
               </div>
             </div>
