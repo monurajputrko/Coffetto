@@ -9,7 +9,15 @@ section {
 .section-subtitle,
 .section-title {
     text-align: center;
-    margin-top: 2%;
+    margin-top: 5%;
+}
+
+@media (max-width: 768px) {
+    .section-subtitle,
+        .section-title {
+            text-align: center;
+            margin-top: 15%;
+        }
 }
 
 .section-subtitle {
@@ -145,3 +153,4 @@ section {
     right: 0px;
     top: 10px;
 }
+
