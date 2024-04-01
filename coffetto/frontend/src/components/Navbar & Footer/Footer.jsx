@@ -81,7 +81,7 @@ export const Footer = () => {
                   © Copyright Coffetto. All rights reserved
                 </span>
               </div>
-            </div>
+            </div> 
           </div>
         </footer>
         <a href="#" class="scrollup show-scroll" id="scroll-up">

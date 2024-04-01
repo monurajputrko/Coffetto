@@ -110,7 +110,7 @@ export default function Products() {
       <div class="bestSelling-beers">
         {products.map((e) => (
           <div key={e.id} class="bs-card">
-            <div class="bs-card-img" id="bs-img-1">
+            <div style={{display:"flex",justifyContent:"center",alignItems:"center"}} class="bs-card-img" id="bs-img-1">
               <img
                 style={{ width: "130px" }}
                 src={e.imageSrc}
